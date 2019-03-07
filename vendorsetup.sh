@@ -1,0 +1,3 @@
+add_lunch_combo lineage_mata-user
+add_lunch_combo lineage_mata-userdebug
+add_lunch_combo lineage_mata-eng
